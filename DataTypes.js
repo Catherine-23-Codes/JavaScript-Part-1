@@ -14,9 +14,14 @@ Primitve data types
 eg : a=23
     typeof a 
         -> gives number coz a=23 is of number datatype
+    eg : size= 69.69
+    typeof size
+            -> gives number as op
 
 2)String 
 eg: name="Catherine"
 typeof a
     ->gives string as op as name is of string type
+
+
 */
