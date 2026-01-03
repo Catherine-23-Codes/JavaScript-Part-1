@@ -58,3 +58,9 @@ console.log(booleanIsTest);
 let test2 = "Catherine Infanta loves JS";
 let booleanIsTest2 = Boolean(test2);
 console.log(booleanIsTest2);
+
+//number as string -> string
+let num = 23;
+let stringNumber = String(num);
+console.log(stringNumber);
+console.log(typeof stringNumber);
