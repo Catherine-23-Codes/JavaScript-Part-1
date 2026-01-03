@@ -42,3 +42,19 @@ console.log(name);
 console.log(typeof name);
 let valueIntNumber = Number(name);
 console.log(valueIntNumber);
+
+//boolean
+// 1- true 0- false
+let isLoggedIn = 1;
+let booleanIsLoggedIn = Boolean(isLoggedIn);
+console.log(booleanIsLoggedIn);
+
+// empty string -> gives o/p as false
+let test1 = "";
+let booleanIsTest = Boolean(test1);
+console.log(booleanIsTest);
+
+//string with value -> true
+let test2 = "Catherine Infanta loves JS";
+let booleanIsTest2 = Boolean(test2);
+console.log(booleanIsTest2);
